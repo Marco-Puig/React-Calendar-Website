@@ -1,6 +1,6 @@
 import './App.css';
 
-//import Calender component
+//import Calendar component
 import Calendar from './components/Calendar'
 
 // main() = main App
